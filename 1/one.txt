@@ -1,0 +1,8 @@
+Question 1 
+Our company needs to send out time sensitive and highly personal information to clientele. Information cannot be a savable format at any time. So no emails, faxes, texts, or anything that would leave a paper trail. How would you solve this problem and what technologies would you use? What questions would you ask to further your solution or find a better solution?
+
+If there is no paper trail allowed, the most basic way to transfer this information would be verbally. Verbal communication can use phone calls, or VOIP applications for example Slack or Skype specifically through an audio or video call.
+
+Why must we communicate it in such a way? What kinds of implications do we face when obtaining this information? How could a company even use this data? 
+
+No way to guarantee accuracy of information due to the fact that it would only be verbal and not stored. Other than asking another person who is suppose to know the same information accuracy would be difficult to maintain.
